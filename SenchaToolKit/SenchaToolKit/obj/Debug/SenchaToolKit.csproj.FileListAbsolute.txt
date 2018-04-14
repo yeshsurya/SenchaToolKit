@@ -1,0 +1,15 @@
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\bin\Debug\SenchaToolKit.exe.config
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\bin\Debug\SenchaToolKit.exe
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\bin\Debug\SenchaToolKit.pdb
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.csprojResolveAssemblyReference.cache
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\MainWindow.g.cs
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\App.g.cs
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit_MarkupCompile.cache
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit_MarkupCompile.lref
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\MainWindow.baml
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.g.resources
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.Properties.Resources.resources
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.csproj.GenerateResource.Cache
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.csproj.CoreCompileInputs.cache
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.exe
+C:\Users\ynagaraj\Source\Repos\SenchaToolKit\SenchaToolKit\obj\Debug\SenchaToolKit.pdb

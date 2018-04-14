@@ -5,8 +5,39 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SenchaToolKit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="Sencha ToolKit" Height="350" Width="525">
+    <TabControl>
+        <TabItem Header="Main">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="10">
+                    <Label Margin="5">Select Function:</Label>
+                    <ComboBox Width="150" Margin="5">
+                        <ComboBoxItem ToolTip="Workspace will be automatically generated" IsSelected="True">Generate Application</ComboBoxItem>
+                        <ComboBoxItem>Generate Workspace</ComboBoxItem>
+                        <ComboBoxItem>Create Production Build</ComboBoxItem>
+                        <ComboBoxItem>Create Testing Build</ComboBoxItem>
+                        <ComboBoxItem>Clean App</ComboBoxItem>
+                    </ComboBox>
+                    <Button Margin="5" Width="50">Go</Button>
+                </StackPanel>
+            </StackPanel>
+        </TabItem>
+        <TabItem Header="Configuration">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="12">
+                    <Label  ToolTip="This path will be used for App And Workspace Generation">Target Path :</Label>
+                    <TextBox Width="250"/>
+                    <Button Width="120" Content="Browse"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label ToolTip="Name which will be used for Application Generation, Default is NEWAPP">App Name :</Label>
+                    <TextBox Width="250"></TextBox>
+                    <Button Width="70">Save</Button>
+                </StackPanel>
+            </StackPanel>
+           
+            
+        </TabItem>
+            
+    </TabControl>
 </Window>
