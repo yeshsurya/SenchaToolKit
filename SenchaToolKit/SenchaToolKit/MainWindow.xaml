@@ -18,7 +18,7 @@
                         <ComboBoxItem>Create Testing Build</ComboBoxItem>
                         <ComboBoxItem>Clean App</ComboBoxItem>
                     </ComboBox>
-                    <Button Margin="5" Width="50">Go</Button>
+                    <Button Margin="5" Width="50" Click="Button_Click">Go</Button>
                 </StackPanel>
             </StackPanel>
         </TabItem>
